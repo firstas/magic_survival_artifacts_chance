@@ -1,10 +1,10 @@
 Chance (in %) and avg # of runs to get 26 artifacts in 33 chests:
-                without keyChainInPool | with keyChainInPool | prioritizeKeyChainOverAllOtherArtifacts | keyChainEveryChestButOncePerNormalChestGet
+                without keyChainInPool | with keyChainInPool | prioritizeKeyChainOverAllOtherArtifacts | 1PossibleRerollEveryChest
 All artifacts:      0.00%, #:     inf     0.00%, #:     inf        0.00%, #:     inf                      0.24%, #: 412.37
 All or without 1:   0.00%, #: 500000.00   0.00%, #: 166666.67      0.00%, #: 1000000.00                   2.84%, #:  35.20
 All or without 2:   0.00%, #: 62500.00    0.00%, #:  25000.00      0.00%, #: 25000.00                    13.57%, #:   7.37
 Chance (in %) and avg # of runs to get 26 artifacts in 47 chests:
-                without keyChainInPool | with keyChainInPool | prioritizeKeyChainOverAllOtherArtifacts | keyChainEveryChestButOncePerNormalChestGet
+                without keyChainInPool | with keyChainInPool | prioritizeKeyChainOverAllOtherArtifacts | 1PossibleRerollEveryChest
 All artifacts:      0.20%, #:  489.24     0.31%, #:   323.21       0.30%, #:   336.36                    53.13%, #:   1.88
 All or without 1:   2.00%, #:   49.98     2.77%, #:    36.06       2.68%, #:    37.30                    89.19%, #:   1.12
 All or without 2:   9.05%, #:   11.04    11.56%, #:     8.65      11.16%, #:     8.96                    98.65%, #:   1.01

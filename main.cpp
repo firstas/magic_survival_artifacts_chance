@@ -22,7 +22,7 @@ void defaultTest(int buffer, int wantedArtifacts, int chestsInRun) {
 }
 void bufferIterator(int wantedArtifacts, int chestsInRun) {
   std::cout << "Chance (in %) and avg # of runs to get " << wantedArtifacts << " artifacts in " << chestsInRun << " chests:\n";
-  std::cout << "                without keyChainInPool | with keyChainInPool | prioritizeKeyChainOverAllOtherArtifacts | keyChainEveryChestButOncePerNormalChestGet\n";
+  std::cout << "                without keyChainInPool | with keyChainInPool | prioritizeKeyChainOverAllOtherArtifacts | 1PossibleRerollEveryChest\n";
   std::cout << "All artifacts:";
   defaultTest(0, wantedArtifacts, chestsInRun);
   std::cout << "All or without 1:";
